@@ -15,9 +15,7 @@
       ‘Vanaf kinds af aan krijg je bepaalde normen en waarde geleerd, hier ga je in geloven. Toen ik de regels van het geloof niet had opgevolgd vond ik dat ik gezondigd had, ik zat fout.
       Sinds dat Lilo verbannen is uit de community heeft ze haar leven over een totaal andere boeg gegooid. Op Social Media is Lilo erg actief, ze heeft veel volgers en haar instagram lijkt een uitlaatklep voor haar te zijn.
     </p>
-    <h2 class="text-4xl font-bold pt-2 float-right">
-      ‘EINDELIJK WORDT IK GEZIEN’
-    </h2>
+    <img src="quote.png" alt="">
     <p class="pt-2">
       ‘Op mijn Instagram voel ik mij echt gezien, ik kan daar helemaal mezelf zijn.’ Elke week krijgt Lilo meer ogen op haar gericht, en krijgt ze veel aandacht van haar omgeving. Eenzaam is ze dan ook zeker niet. Ze houdt ervan om zichzelf te omringen met mensen. Vaak is ze te vinden in de club EGORITME in Den Haag. ‘Ik hou ervan om nieuwe mensen te ontmoeten’.
     </p>
